@@ -7,4 +7,4 @@
     'locale' => 'zh',
 
 ### validation中文.php
-[点击这里你可以链接到validation中文.php](https://github.com/binbinmax/Laravel-validation-/blob/master/validation%E4%B8%AD%E6%96%87.php)<br />
+[validation中文.php](https://github.com/binbinmax/Laravel-validation-/blob/master/validation%E4%B8%AD%E6%96%87.php)<br />
